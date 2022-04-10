@@ -18,7 +18,7 @@ Create the docker-compose in a way that we just run `docker-compose up -d` and e
 
 Run the command:
 
-`docker-compose up -d --build`
+`docker-compose up -d`
 
 Then access:
 
